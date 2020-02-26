@@ -1,0 +1,4 @@
+# KMP 算法
+
+原始字符串: BBC ABCDAB ABCDABCDABDE
+模式串:     ABCDABD
